@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project_clothies/static/css/main.c2cab247.css",
+    "main.js": "/project_clothies/static/js/main.c420fa07.js",
+    "static/media/تناسق-الألوان-في-الملابس-الرجالي-7.jpg": "/project_clothies/static/media/تناسق-الألوان-في-الملابس-الرجالي-7.c93bdf928f0520159c27.jpg",
+    "static/media/تنسيق-ألوان١.jpeg": "/project_clothies/static/media/تنسيق-ألوان١.7389f1b4ee9ccd3a6d74.jpeg",
+    "static/media/تنسيق-ملابس-الرجال2.jpg": "/project_clothies/static/media/تنسيق-ملابس-الرجال2.6dedeaf916ce7728b56e.jpg",
+    "index.html": "/project_clothies/index.html",
+    "main.c2cab247.css.map": "/project_clothies/static/css/main.c2cab247.css.map",
+    "main.c420fa07.js.map": "/project_clothies/static/js/main.c420fa07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.c420fa07.js"
+  ]
+}
